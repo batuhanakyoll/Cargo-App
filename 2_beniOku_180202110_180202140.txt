@@ -1,0 +1,5 @@
+1-Kullanıcı çıkan pencereden gidilecek şehir sayısını girmeli.(5 saniyede seçilmelidir.)
+2-Şehir sayısı seçildikten sonra gidilecek şehirler seçilmeli.(Sehir sayısı kadar sehir seçilebilir ve 10 saniyede seçilmelidir.)
+3-En kısa 5 rotanın 5 farklı pencerede çizimi gösterilir.(5 farklı pencere üst üste açılıyor.)
+NOT:Kullanıcı eğer 9 veya 10 sehir seçerse programın calısması uzun sürmektedir.(2 dakikadan fazla)
+ 
